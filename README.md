@@ -1,4 +1,4 @@
-# Basic Project
+# Java Project
 ## Core Concepts
 
 *Java application to cover core concepts.*
